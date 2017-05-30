@@ -55,7 +55,7 @@ class ItemDetailsVC: UIViewController, UIPickerViewDataSource, UIPickerViewDeleg
 //                store6.name = "Annat"
 //        
 //                ad.saveContext()
-//        
+        
         getStores()
         
         if itemToEdit != nil {
